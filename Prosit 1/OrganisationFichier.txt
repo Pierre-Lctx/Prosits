@@ -1,0 +1,4 @@
+Dans ce dossier, vous pourrez trouver :
+- La corbeille dans les dossiers CorbeilleExercice1234 et CorbeilleExerciceProsit1
+- La simultation Unity dans le dossier Prosit 1
+- La résolution du prosit dans le dossier Prosit1FichierCPP
